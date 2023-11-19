@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.fd0f3e1c.js",
-    "index.html": "/index.html",
-    "main.fd0f3e1c.js.map": "/static/js/main.fd0f3e1c.js.map"
+    "main.css": "/Autorisation/static/css/main.31d6cfe0.css",
+    "main.js": "/Autorisation/static/js/main.fd0f3e1c.js",
+    "index.html": "/Autorisation/index.html",
+    "main.fd0f3e1c.js.map": "/Autorisation/static/js/main.fd0f3e1c.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
